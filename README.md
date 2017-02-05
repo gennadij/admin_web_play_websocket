@@ -17,3 +17,4 @@ This little webapp implements both actors type: stateless and statefull.
 
 ##Notes
 Also available as [Typesafe Activator Template](https://typesafe.com/activator/template/play-websocket).
+# admin_web_play_websocket
